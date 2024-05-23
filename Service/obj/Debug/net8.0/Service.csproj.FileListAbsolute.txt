@@ -1,0 +1,47 @@
+C:\Users\Usuario\source\repos\ParcialUno\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\Usuario\source\repos\ParcialUno\Service\bin\Debug\net8.0\Service.dll
+C:\Users\Usuario\source\repos\ParcialUno\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\Usuario\source\repos\ParcialUno\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\Usuario\source\repos\ParcialUno\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.sourcelink.json
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.dll
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\Usuario\source\repos\ParcialUno\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Service.dll
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.sourcelink.json
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.dll
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\Usuario\source\repos\ParcialUno - copia (2)\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Service.dll
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.dll
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\Usuario\Documents\ParcialUno - copia (2)\Service\obj\Debug\net8.0\ref\Service.dll
